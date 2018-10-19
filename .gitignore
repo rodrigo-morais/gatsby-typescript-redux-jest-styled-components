@@ -1,0 +1,9 @@
+/node_modules
+/tmp
+/public
+/npm-debug.log
+/.env
+/coverage
+/.npmrc
+**/.DS_Store
+yarn-error.log

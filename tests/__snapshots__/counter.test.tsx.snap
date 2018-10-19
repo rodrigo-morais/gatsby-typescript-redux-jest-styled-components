@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter Rendering renders according to design 1`] = `
+<div>
+  <h1>
+    Here you can count up or down
+  </h1>
+  <button
+    onClick={[MockFunction]}
+  >
+    Up
+  </button>
+  <br />
+  <br />
+  <button
+    onClick={[MockFunction]}
+  >
+    Down
+  </button>
+</div>
+`;
