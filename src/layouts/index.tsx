@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 import { graphql, StaticQuery } from 'gatsby'
 
 import Header from '../components/header'
-import './layout.css'
+import Reset from './reset'
 
 const Layout = ({ children }: { children: any }) => {
   const renderLayout = (data: any) => (
@@ -18,6 +18,7 @@ const Layout = ({ children }: { children: any }) => {
       >
         <html lang="en" />
       </Helmet>
+      <Reset />
       <Header siteTitle={data.site.siteMetadata.title} />
       <div
         style={{

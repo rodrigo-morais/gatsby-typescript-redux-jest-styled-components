@@ -641,6 +641,10 @@
             "version": "^3.0.6"
           },
           {
+            "name": "@types/styled-components",
+            "version": "^4.0.1"
+          },
+          {
             "name": "babel-plugin-styled-components",
             "version": "^1.8.0"
           },
@@ -907,12 +911,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-19T12:47:02.530Z",
+      "buildTime": "2018-10-19T13:59:25.151Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a4da83b59ffdd52ff0d35bbefb0cd99f",
+        "contentDigest": "35e4fc2d48dc546007f1a2bd088a578c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1000,7 +1004,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "d5ff0606ef34f51f51d24dfdaca9a1e0"
+    "PLUGINS_HASH": "d97139b80506b3c469d0420c450a3c98"
   },
   "componentDataDependencies": {
     "nodes": {
